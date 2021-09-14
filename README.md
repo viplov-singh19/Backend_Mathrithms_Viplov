@@ -1,6 +1,6 @@
 # Backend_Mathrithms_Viplov
 
-I have used node.js and express.js for making he Restful API. To post data to the API i have created a post route and using postman software we can add data to the API.
+I have used node.js and express.js for making the Restful API. To post data to the API i have created a post route and using postman software we can add data to the API.
 
 The API Runs on localhost 5001. 
 
